@@ -1,0 +1,39 @@
+﻿line_no,n_vehicle_name,units_sold_mtd,sales_mtd,gross_profit_mtd,units_sold_ytd,sales_ytd,gross_profit_ytd
+1,Sonata,2,59962,658,8,251010,9360
+4,Elantra,3,81297,2606,11,328956,7890
+6,Elantra HEV,0,0,0,2,55873,814
+9,Hyundai Car Retail Subtotal (Lines 1 to 8),5,141259,3264,21,635839,18064
+10,Santa Fe,1,86778,930,24,1053371,25722
+11,Santa Fe HEV,3,98309,2171,11,478221,8858
+13,Tucson,2,69076,857,22,816451,16301
+14,Tucson HEV,4,144678,1773,13,520238,9979
+16,Kona,0,0,0,5,155352,5398
+22,Palisade,5,256718,8480,28,1405405,50344
+23,Venue,0,0,0,1,21478,137
+24,Santa Cruz,3,114579,-2770,8,296246,1261
+27,Hyundai Truck Retail Subtotal (Lines 10 to 26),18,770138,11441,112,4746762,118000
+28,Total New Hyundai Retail Subtotal (Lines 9 + 27),23,911397,14705,133,5382601,136064
+32,Elantra,2,59497,455,3,83087,1208
+37,Hyundai Car Lease Subtotal (Lines 29 to 36),2,59497,455,3,83087,1208
+38,Santa Fe,1,48842,667,4,182487,4693
+39,Santa Fe HEV,1,47377,405,4,187867,5153
+41,Tucson,2,64246,771,3,97462,1912
+42,Tucson HEV,0,0,0,2,68036,4193
+44,Kona,3,94264,-510,3,94264,-510
+47,IONIQ 5,0,0,0,1,54171,-150
+50,Palisade,0,0,0,5,232846,7934
+53,IONIQ 9,1,74752,2182,1,74752,2182
+55,Hyundai Truck Lease Subtotal (Lines 38 to 54),8,329481,3515,23,991885,25407
+56,Total Hyundai Lease Subtotal (Lines 37 + 55),10,388978,3970,26,1074972,26615
+57,Total Hyundai Car & Truck Retail + Lease (Lines 28 + 56),33,1300375,18675,159,6457573,162679
+60,Total Hyundai Car & Truck + Fleet + Discontinued  (Lines 57 to 59),33,1300375,18675,159,6457573,162679
+61,Incentives - Hyundai,,,35645,,,138495
+65,Total Hyundai Car & Truck Front-End (Lines 60 + 61  to 64),33,1300375,54320,159,6457573,301174
+66,Finance Income - Hyundai,32,,21157,131,,63376
+68,GAP Income - Hyundai,4,,2249,32,,14413
+69,Hyundai Protection Plan,16,21491,9058,51,73639,35358
+70,Extended Service Contract - Hyundai,11,18558,18209,71,134567,131788
+72,Chargebacks - Hyundai,,,-5051,,,725
+73,Aftermarket Income - Hyundai,,7016,7016,,25490,25490
+74,F&I Subtotal - Hyundai (Lines 66 to 73),33,47065,52638,159,233696,271150
+75,Total New Vehicle - Hyundai (Lines 65 + 74),33,1347440,106958,159,6691269,572324
