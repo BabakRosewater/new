@@ -1,4 +1,4 @@
-﻿vin_number,stock_number,vehicle_status,my,model_code,color,msrp,cost
+﻿vin_number,stock_number,vehicle_status,my,model_code,color,msrp,price
 KMHRC8A35TU426894,H7342,DS - Dealer Stock,2026,30422F45,GREEN,"        $25,115","        $24,517"
 KMHLW4DK6SU030156,,DS - Dealer Stock,2025,4N4A3FT5,BLUE,"        $36,260","        $35,142"
 KMHLP4DGXSU941714,H7113,DS - Dealer Stock,2025,494J2F4S,RED,"        $28,630","        $27,639"
@@ -103,3 +103,4 @@ KM8HACAB0TU392035,,DS - Dealer Stock,2026,Q1402A45,WHITE,"        $29,175","    
 5NMJCCDE8TH649231,,IR - In Transit (Rail),2026,85462A4S,RED,"        $37,970","        $36,600"
 5NMJACDE0TH643400,,IR - In Transit (Rail),2026,85402A4S,BLUE,"        $33,020","        $31,853"
 3KMJCCDE2SE019756,H7165,DS - Dealer Stock,2025,85462A4S,BLACK,"        $36,485","        $35,183"
+
