@@ -1,7 +1,6 @@
 vin_number,stock_number,vehicle_status,my,model_code,color,msrp,price
 KMHRC8A35TU439323,,DS - Dealer Stock,2026,30422F45,GREEN,"        $25,050","        $24,455"
 KMHRC8A35TU426894,H7342,DS - Dealer Stock,2026,30422F45,GREEN,"        $25,115","        $24,517"
-KMHLP4DGXSU941714,H7113,DS - Dealer Stock,2025,494J2F4S,RED,"        $28,630","        $27,639"
 KMHLM4DJ6TU190942,,DS - Dealer Stock,2026,494C2FBS,WHITE,"        $27,805","        $27,001"
 KMHL64JA7TA545729,HT7376,DS - Dealer Stock,2026,29442A4S,BLUE,"        $32,355","        $30,906"
 KMHL24JA3TA550664,,DS - Dealer Stock,2026,29412F4S,BLACK,"        $28,785","        $27,543"
@@ -64,3 +63,4 @@ KM8HACAB0TU392035,,DS - Dealer Stock,2026,Q1402A45,WHITE,"        $29,175","    
 5NMJECDE1TH648397,,DS - Dealer Stock,2026,85472A4S,BLACK,"        $43,255","        $41,227"
 5NMJCCDE8TH649231,H7383,DS - Dealer Stock,2026,85462A4S,RED,"        $37,970","        $36,600"
 5NMJACDE0TH643400,H7385,DS - Dealer Stock,2026,85402A4S,BLUE,"        $33,020","        $31,853"
+
